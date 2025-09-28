@@ -167,6 +167,6 @@ LINQ
 👩‍💻 Geliştirici
 Esma Polat
 
-🌐 LinkedIn
+🌐 LinkedIn https://www.linkedin.com/in/esma-polat-17a367234/
 
-💻 GitHub
+💻 GitHub https://github.com/syberess
