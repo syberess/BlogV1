@@ -1,0 +1,14 @@
+﻿# Visual Studio cache klasörleri
+.vs/
+
+# Build çıktı klasörleri
+bin/
+obj/
+
+# Kullanıcı ayar dosyaları
+*.user
+*.suo
+
+# Yaygın geçici dosyalar
+*.log
+*.tmp
